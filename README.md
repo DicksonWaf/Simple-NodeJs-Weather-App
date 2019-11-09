@@ -1,2 +1,2 @@
 # Simple-NodeJs-Weather-App
-Utilizes Mapbox and Darksky APIs to give a given location's weather forecast.
+A nodeJs app that gives realtime weather forecast for a given city. I utilized mapbox and darsky API. More complexity to be added soon
